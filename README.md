@@ -1,3 +1,7 @@
+> **Note: This repo is deprecated. I now use my own tool for creating new projects - [create-noodle-app](https://github.com/RyanMKrol/create-noodle-app)**
+
+---
+
 # BaseNodeApiProject
 A template for making APIs using Node with an express server.
 
